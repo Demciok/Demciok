@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Demciok
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning python
-- 🤓 I'm good at:
--  MySql, Js, Html, PHP, 
-- 💞️ I’m looking to collaborate a level where someone can help evaluate my code
-- 📫 How to reach me ...
+![](https://github.com/Demciok/Demciok/blob/main/maintenance-under-maintenance.gif)
 
 <!---
 Demciok/Demciok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
