@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **demci0k21@gmail.com**
 
-- ⚡ Fun fact **I start learning from this year**
+- ⚡ Fun fact **My surname is fly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
